@@ -6,7 +6,7 @@ export default function Resume() {
         <div className="container">
             <h1 className="section-heading">Resume</h1>
             <h2>Front End Proficencies:</h2>
-            <ul>
+            <ul className="proficencies-list">
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JavaScript</li>
@@ -16,7 +16,7 @@ export default function Resume() {
                 <li>React</li>
             </ul>
             <h2>Back End Proficencies:</h2>
-            <ul>
+            <ul className="proficencies-list">
                 <li>APIs</li>
                 <li>Node</li>
                 <li>Express</li>
