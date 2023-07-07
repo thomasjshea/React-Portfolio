@@ -1,0 +1,19 @@
+.navbar {
+    padding: .5rem 1rem;
+    background-color: #f47735;
+    border-radius: 8px;
+}
+a.nav-link-active{
+    color:#fff;
+    text-decoration: none;
+    background-color: #002b5c;
+    padding: .5rem 1rem;
+    margin: 0 .25rem;
+    border-radius: 8px;
+}
+a.nav-link {
+    color: #002b5c;
+    background-color: #fff;
+    margin: .25rem;
+    border-radius: 8px;
+}

@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 1rem;
+    background-color: #002b5c;
+    margin-bottom: 1.25rem;
+}
+
+.heading {
+    padding: .5rem 1rem;
+    color: #fff;
+    background-color: #f47735;
+    border-radius: 8px;
+}
