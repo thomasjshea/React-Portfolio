@@ -1,0 +1,19 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+    margin-bottom: 1.25rem;
+}
+.form input {
+    margin-bottom: 1.25rem;
+}
+
+.form textarea {
+    min-height: 200px;
+}
+
+.form button {
+    margin-top: 1.25rem;
+    background-color: #f47735;
+    color: #fff
+}
